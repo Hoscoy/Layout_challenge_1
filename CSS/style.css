@@ -1,0 +1,24 @@
+/* Project Name: Layout_Challenge
+Author: Esmeralda Hoscoy
+Front End Developer @GA in NYC */
+
+div {
+	background-color: red; 
+	clear: left; 
+	float: left; 
+	height: 50px; 
+	margin: 5px 0; 
+	width: 100%;
+}
+
+.block1 {
+	height: 150px; 
+	width: 74%;
+}
+
+.block2 {
+	clear: none; 
+	height: 150px; 
+	margin-left: 1%; 
+	width: 25%;
+}
